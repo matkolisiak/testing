@@ -1,0 +1,1 @@
+﻿!InitialItem,@Dashboard,@Map,@activity,@Tourplan,@RoutePlan;;RoutePlan,account,contact,lead,opportunity,#Other,quote,salesorder,invoice,product,##,@Setup,@About
